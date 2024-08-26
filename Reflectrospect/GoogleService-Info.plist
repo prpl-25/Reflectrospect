@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>35e1fec5956a43e9b3ddbf941f0386a3</string>
+	<key>GCM_SENDER_ID</key>
+	<string>895701427533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sindhu-Rallabhandi.Reflectrospect</string>
+	<key>PROJECT_ID</key>
+	<string>cse-335-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cse-335-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>CFBundleIdentifier</key>
+	<string>Sindhu-Rallabhandi.Reflectrospect</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow location access to use our app!</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:895701427533:ios:235c8194be847f00358304</string>
+</dict>
+</plist>
