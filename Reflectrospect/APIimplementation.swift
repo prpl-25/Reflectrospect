@@ -9,7 +9,7 @@ import Foundation
 
 class APIimplementation{
     private var urlAsString = ""
-    private let apiKey = "35e1fec5956a43e9b3ddbf941f0386a3"
+    private let apiKey = "" //insert api key
     private var articles = [ArticleInfo]()
     private var articlesList = [ListArticles]()
     private var query: String = ""
