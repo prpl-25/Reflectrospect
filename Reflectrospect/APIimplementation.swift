@@ -18,7 +18,7 @@ class APIimplementation{
     }
     
     func fetchArticles(completion: @escaping ([ListArticles]) -> Void){
-        urlAsString = "https://newsapi.org/v2/everything?q=\(query) NOT suicide NOT quiz&language=en&apiKey=35e1fec5956a43e9b3ddbf941f0386a3"
+        urlAsString = "https://newsapi.org/v2/everything?q=\(query) NOT suicide NOT quiz&language=en&apiKey=(apiKeey)"
         
    
         let url = URL(string: urlAsString)!
