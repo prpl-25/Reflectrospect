@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Reflectrospect
 //
-//  Created by Sindhu Rallabhandi on 3/15/24.
+//  Created by Sindhu Vadapalli on 3/15/24.
 //
 
 import SwiftUI
