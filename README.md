@@ -1,5 +1,5 @@
 # Reflectrospect
-IOS App that helps you log you mood, emotions, and check history/patterns over time. 
+IOS App that helps you log your mood, emotions, and check history/patterns over time. 
 
 **Main Idea**
 A user-friendly mood-tracking application designed to help users monitor, record, and track their emotional well-being. 
